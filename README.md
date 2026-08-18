@@ -17,9 +17,18 @@
 ## 🛠️ Инструкция по установке
 
 1. Скачайте актуальную сборку Zapret со страницы [Flowseal Releases](https://github.com/flowseal/zapret-discord-youtube/releases) и распакуйте её.
-2. Скачайте файл `general (Emergeflow) v1.0.bat` из этого репозитория.
-3. Поместите файл `general (Emergeflow) v1.0.bat` в корневую папку Zapret (рядом с файлом `service.bat`).
-4. Запустите `general (Emergeflow) v1.0.bat` от **имени администратора**.
+2. Скачайте файл `general (Emergeflow) v1.1.bat` из этого репозитория.
+3. Поместите файл `general (Emergeflow) v1.1.bat` в корневую папку Zapret (рядом с файлом `service.bat`).
+4. Запустите `general (Emergeflow) v1.1.bat` от **имени администратора**.
+
+---
+
+## 📝 Переименование `.bat` файла
+
+При скачивании из релизов GitHub файл может называться `general.Emergeflow.v1.1.bat`. 
+
+Если вы хотите, чтобы имя файла полностью соответствовало стилю оригинальных пресетов Zapret, просто переименуйте его в:
+`general (Emergeflow) v1.1.bat`
 
 ---
 
