@@ -1,2 +1,38 @@
-# Zapret-custom-strategy
-Custom bypass strategy for Zapret (YouTube, Discord, SoundCloud &amp; Minecraft support) by @Emergeflow.
+# 🚀 Zapret Custom Strategy by @Emergeflow
+
+Кастомная стратегия обхода блокировок для сборки **Zapret** от разработчика [Flowseal](https://github.com/flowseal/zapret-discord-youtube/releases).
+
+Оптимизирована для стабильной работы популярных сервисов и игровых серверов в РФ.
+
+---
+
+## ✨ Поддерживаемые сервисы
+
+* 🎥 **YouTube** (просмотр в 4K без задержек и быстрая загрузка превью)
+* 🎧 **SoundCloud** (полный доступ к трекам)
+* 💬 **Discord** (голосовые каналы и текстовые чаты)
+* 🎮 **Minecraft** (европейские сервера: Hypixel, Mineman и др., стандартный порт `25565`)
+
+---
+
+## 🛠️ Инструкция по установке
+
+1. Скачайте актуальную сборку Zapret со страницы [Flowseal Releases](https://github.com/flowseal/zapret-discord-youtube/releases) и распакуйте её.
+2. Скачайте файл `general (Emergeflow) v1.0.bat` из этого репозитория.
+3. Поместите файл `general (Emergeflow) v1.0.bat` в корневую папку Zapret (рядом с файлом `service.bat`).
+4. Запустите `general (Emergeflow) v1.0.bat` от **имени администратора**.
+
+---
+
+## ⚙️ Технические особенности стратегии
+
+* **Использование паттерна Google:** Подмена TLS ClientHello на `tls_clienthello_www_google_com.bin`.
+* **Смещение границ:** Позиционирование `split-pos=2` и `seqovl=652` для обхода ТСПУ.
+* **Fooling-методы:** Комбинация `md5sig,ts` для сбивания систем анализа трафика.
+* **Оптимизация:** Ограничение повторов фейков (`repeats=6`) для сохранения минимального пинга.
+
+---
+
+## 📜 Лицензия
+
+Распространяется по лицензии [MIT](LICENSE).
