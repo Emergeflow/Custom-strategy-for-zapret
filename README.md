@@ -1,4 +1,4 @@
-# 🚀 Zapret Custom Strategy by @Emergeflow
+# 🚀 Custom Strategy for zapret by @Emergeflow
 
 Кастомная стратегия обхода блокировок для сборки **Zapret** от разработчика [Flowseal](https://github.com/Flowseal).
 
