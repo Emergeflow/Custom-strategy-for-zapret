@@ -17,18 +17,18 @@
 ## 🛠️ Инструкция по установке
 
 1. Скачайте актуальную сборку zapret со страницы под названием [**«Flowseal Releases»**](https://github.com/flowseal/zapret-discord-youtube/releases) и распакуйте её.
-2. Скачайте файл `general (Emergeflow) v1.1.bat` из раздела под названием [**«Releases»**](https://github.com/Emergeflow/Custom-strategy-for-zapret/releases).
-3. Поместите файл `general (Emergeflow) v1.1.bat` в корневую папку Zapret (рядом с файлом `service.bat`).
-4. Запустите `general (Emergeflow) v1.1.bat` от **имени администратора**.
+2. Скачайте файл `general (Emergeflow) v1.2.bat` из раздела под названием [**«Releases»**](https://github.com/Emergeflow/Custom-strategy-for-zapret/releases).
+3. Поместите файл `general (Emergeflow) v1.2.bat` в папку где находится zapret.
+4. Запустите `general (Emergeflow) v1.2.bat` от **имени администратора**.
 
 ---
 
 ## 📝 Переименование `.bat` файла
 
-При скачивании из релизов GitHub файл может называться `general.Emergeflow.v1.1.bat`. 
+При скачивании из релизов GitHub файл может называться `general.Emergeflow.v1.2.bat`. 
 
 Если вы хотите, чтобы имя файла полностью соответствовало стилю оригинальных стратегий zapret, просто переименуйте его в:
-`general (Emergeflow) v1.1.bat`
+`general (Emergeflow) v1.2.bat`
 
 ---
 
