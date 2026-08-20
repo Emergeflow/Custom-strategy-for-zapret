@@ -1,4 +1,4 @@
-# 🚀 Custom Strategy for zapret by @Emergeflow
+# 🚀 Custom strategy for zapret by @Emergeflow
 
 Кастомная стратегия обхода блокировок для сборки **Zapret** от разработчика [Flowseal](https://github.com/Flowseal).
 
@@ -27,7 +27,7 @@
 
 При скачивании из релизов GitHub файл может называться `general.Emergeflow.v1.1.bat`. 
 
-Если вы хотите, чтобы имя файла полностью соответствовало стилю оригинальных пресетов Zapret, просто переименуйте его в:
+Если вы хотите, чтобы имя файла полностью соответствовало стилю оригинальных стратегий zapret, просто переименуйте его в:
 `general (Emergeflow) v1.1.bat`
 
 ---
